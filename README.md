@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NASAPROGRAMMER
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C++ and Machine Learning
+- 🌱 I’m currently learning C++,JavaScript,Python,Cyber Security and Machine Learning
 - 💞️ I’m looking to collaborate on Cybersecurity
 - 📫 How to reach me just know where u know
 - 😄 Pronouns: ftps3rver
